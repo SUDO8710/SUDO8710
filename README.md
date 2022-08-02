@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUDO8710
 - 👀 I’m interested in coding and football
-- 🌱 I’m currently learning Power Engineering in JU
+- 🌱 I’m currently learning Electronics and Telecommunications Engineering at University of Calcutta 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryashis.nandi@gmail.com 
 
