@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Suryashis Nandi, an aspiring engineer.
-- 👀 I’m interested in coding and football.
+- 👋 Hi, I’m Suryashis Nandi, a graduate engineer.
+- 👀 I’m interested in coding and football among other sports
 - 🌱 I’m a graduate in Electronics and Telecommunications Engineering from University of Calcutta and pursuing M.Tech in Computer Science and Engineering from NIT Calicut.
 - 💞️ I’m looking to collaborate with good AI/ML projects.
 - 📫 How to reach me suryashis.nandi@gmail.com!!
